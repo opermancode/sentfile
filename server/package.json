@@ -8,19 +8,20 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
-    "bcrypt": "^6.0.0",          // latest stable 
-    "cors": "^2.8.6",            // latest stable 
-    "dotenv": "^17.3.1",         // latest stable 
-    "express": "^5.2.1",         // latest stable 
-    "jsonwebtoken": "^9.0.3",    // latest stable 
-    "multer": "^2.0.2",          // latest stable 
-    "mysql2": "^3.17.1",         // latest stable 
-    "node-cron": "^4.4.0",       // latest stable 
-    "nodemailer": "^8.0.1"       // latest stable 
+    "bcrypt": "^6.0.0",          
+    "cors": "^2.8.6",            
+    "dotenv": "^17.3.1",         
+    "express": "^5.2.1",         
+    "jsonwebtoken": "^9.0.3",   
+    "multer": "^2.0.2",       
+    "mysql2": "^3.17.1",        
+    "node-cron": "^4.4.0",       
+    "nodemailer": "^8.0.1"       
   },
   "devDependencies": {
-    "nodemon": "^3.1.11"         // latest stable 
+    "nodemon": "^3.1.11"         
   },
   "author": "",
   "license": "ISC"
 }
+
